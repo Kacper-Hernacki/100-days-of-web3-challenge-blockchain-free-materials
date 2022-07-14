@@ -10,3 +10,4 @@
 - Day 7: [Proof of work](https://twitter.com/kacperhernacki/status/1546190722675752960?s=21&t=tgYWlYmW-g-K8vHOnrvkoQ)
 - Day 8: [Proof of stake](https://twitter.com/kacperhernacki/status/1546468490747559936?s=21&t=tgYWlYmW-g-K8vHOnrvkoQ)
 - Day 9: [Asymmetric cryptography](https://twitter.com/kacperhernacki/status/1546836626814509058?s=21&t=tgYWlYmW-g-K8vHOnrvkoQ)
+- Day 10: [Blockchain Pros & Cons](https://twitter.com/KacperHernacki/status/1547196513201360899?s=20&t=QrKlUSURQjkcfsLMU6RolQ)

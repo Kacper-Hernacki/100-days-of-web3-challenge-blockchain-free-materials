@@ -10,3 +10,4 @@
 - Day 7: [Proof of work](https://medium.com/@hernackikacper/proof-of-work-ee42270a40b9)
 - Day 8: [Proof of stake](https://medium.com/@hernackikacper/proof-of-stake-c88a264846ec)
 - Day 9: [Asymmetric cryptography](https://medium.com/@hernackikacper/asymmetric-cryptography-how-did-it-impact-on-blockchain-4d4bf6c19562)
+- Day 10: [Blockchain Pros & Cons](https://medium.com/@hernackikacper/blockchain-pros-cons-3a5b7b7e0a11)
