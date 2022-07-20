@@ -37,3 +37,6 @@ Days 1-10:
 - Day 13: [Blockchain Limitations](https://twitter.com/KacperHernacki/status/1548364165206589442?s=20&t=hCLWLK7TP9ClKe24K-30hw)
 - Day 14: [Blockchain Use Cases](https://twitter.com/KacperHernacki/status/1548723003663466497?s=20&t=hCLWLK7TP9ClKe24K-30hw)
 - Day 15: [Smart Contracts](https://twitter.com/KacperHernacki/status/1549014968653201409?s=20&t=hCLWLK7TP9ClKe24K-30hw)
+- Day 16: [NFT](https://twitter.com/kacperhernacki/status/1549376704958849026?s=21&t=vidh8Vljr_s8KqstACmiJQ)
+
+## Resources

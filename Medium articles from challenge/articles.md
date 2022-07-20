@@ -17,3 +17,4 @@
 - Day 13: [Blockchain Limitations](https://medium.com/@hernackikacper/blockchain-limitations-what-is-lacking-to-fulfill-its-destiny-e51dd9377ef)
 - Day 14: [Blockchain Use Cases](https://medium.com/@hernackikacper/blockchain-top-80-usages-of-the-greatest-technology-since-the-internet-b9ae48b8961c)
 - Day 15: [Smart Contracts](https://medium.com/@hernackikacper/smart-contracts-explained-to-a-kid-54297299f635)
+- Day 16: [NFT](https://medium.com/@hernackikacper/nft-very-fundamental-explanation-3bed54fae210
