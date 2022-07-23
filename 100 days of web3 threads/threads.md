@@ -18,3 +18,7 @@
 - Day 14: [Blockchain Use Cases](https://twitter.com/KacperHernacki/status/1548723003663466497?s=20&t=hCLWLK7TP9ClKe24K-30hw)
 - Day 15: [Smart Contracts](https://twitter.com/KacperHernacki/status/1549014968653201409?s=20&t=hCLWLK7TP9ClKe24K-30hw)
 - Day 16: [NFT](https://twitter.com/kacperhernacki/status/1549376704958849026?s=21&t=vidh8Vljr_s8KqstACmiJQ)
+- Day 17: [Web3 roadmap](https://twitter.com/KacperHernacki/status/1549739028383236096?s=20&t=Fw6KaugsmohBqvuCDJ7aaw)
+- Day 18: [DAO](https://twitter.com/KacperHernacki/status/1550101673829441536?s=20&t=Fw6KaugsmohBqvuCDJ7aaw)
+- Day 19: [Merkletree](https://twitter.com/KacperHernacki/status/1550465539356729349?s=20&t=Fw6KaugsmohBqvuCDJ7aaw)
+- Day 20: [Whitepaper](https://twitter.com/KacperHernacki/status/1550870227805667336?s=20&t=Fw6KaugsmohBqvuCDJ7aaw)

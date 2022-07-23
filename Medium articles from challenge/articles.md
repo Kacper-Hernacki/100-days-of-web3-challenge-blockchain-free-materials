@@ -18,3 +18,7 @@
 - Day 14: [Blockchain Use Cases](https://medium.com/@hernackikacper/blockchain-top-80-usages-of-the-greatest-technology-since-the-internet-b9ae48b8961c)
 - Day 15: [Smart Contracts](https://medium.com/@hernackikacper/smart-contracts-explained-to-a-kid-54297299f635)
 - Day 16: [NFT](https://medium.com/@hernackikacper/nft-very-fundamental-explanation-3bed54fae210
+- Day 17: [Web3 roadmap](https://medium.com/@hernackikacper/blockchain-developer-ultimate-roadmap-it-is-not-as-difficult-as-you-think-2c57da519068)
+- Day 18: [DAO](https://medium.com/@hernackikacper/dao-dac-the-new-trend-ae9993c351b4)
+- Day 19: [Merkletree](https://medium.com/@hernackikacper/merkle-tree-how-it-improved-blockchain-6d77a0c7ff7b)
+- Day 20: [Whitepaper](https://medium.com/@hernackikacper/what-is-a-crypto-whitepaper-and-how-to-write-it-cd26167e57a0)
