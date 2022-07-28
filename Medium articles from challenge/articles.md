@@ -22,3 +22,7 @@
 - Day 18: [DAO](https://medium.com/@hernackikacper/dao-dac-the-new-trend-ae9993c351b4)
 - Day 19: [Merkletree](https://medium.com/@hernackikacper/merkle-tree-how-it-improved-blockchain-6d77a0c7ff7b)
 - Day 20: [Whitepaper](https://medium.com/@hernackikacper/what-is-a-crypto-whitepaper-and-how-to-write-it-cd26167e57a0)
+- Day 21: [Solidity](https://medium.com/@hernackikacper/solidity-for-beginners-4e8826ab9911)
+- Day 22: [Bitcoin Network](https://medium.com/@hernackikacper/bitcoin-network-how-it-revolutionized-tech-and-financial-industries-c5f15a853569)
+- Day 23: [Ethereum Network](https://medium.com/@hernackikacper/ethereum-network-9ef0f622edfe)
+- Day 24: [Cryptocurrencies](https://medium.com/@hernackikacper/cryptocurrencies-what-is-it-from-technical-point-of-view-5dbdadcfb76d)
