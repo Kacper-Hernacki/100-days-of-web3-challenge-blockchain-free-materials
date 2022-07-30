@@ -26,3 +26,5 @@
 - Day 22: [Bitcoin Network](https://medium.com/@hernackikacper/bitcoin-network-how-it-revolutionized-tech-and-financial-industries-c5f15a853569)
 - Day 23: [Ethereum Network](https://medium.com/@hernackikacper/ethereum-network-9ef0f622edfe)
 - Day 24: [Cryptocurrencies](https://medium.com/@hernackikacper/cryptocurrencies-what-is-it-from-technical-point-of-view-5dbdadcfb76d)
+- Day 25: [Dapp](https://medium.com/@hernackikacper/dapp-decentralized-application-what-is-means-fc78ea7dd829)
+- Day 26: [EVM](https://medium.com/@hernackikacper/evm-ethereum-virtual-machine-how-it-improved-blockchain-technology-73b18a821a2)
