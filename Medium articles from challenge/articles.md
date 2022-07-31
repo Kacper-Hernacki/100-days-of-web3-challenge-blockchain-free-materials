@@ -28,3 +28,5 @@
 - Day 24: [Cryptocurrencies](https://medium.com/@hernackikacper/cryptocurrencies-what-is-it-from-technical-point-of-view-5dbdadcfb76d)
 - Day 25: [Dapp](https://medium.com/@hernackikacper/dapp-decentralized-application-what-is-means-fc78ea7dd829)
 - Day 26: [EVM](https://medium.com/@hernackikacper/evm-ethereum-virtual-machine-how-it-improved-blockchain-technology-73b18a821a2)
+- Day 27: [Token Standard](https://medium.com/@hernackikacper/what-is-a-standard-for-an-nft-erc-721-erc-1155-6bf204dd7f68)
+- Day 28: [Blockchain Bridge](https://medium.com/@hernackikacper/blockchain-bridge-af4952111d68)

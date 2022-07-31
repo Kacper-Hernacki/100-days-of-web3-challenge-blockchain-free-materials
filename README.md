@@ -46,5 +46,9 @@ Days 1-10:
 - Day 22: [Bitcoin Network](https://twitter.com/KacperHernacki/status/1551553958975610880?s=20&t=PhKf4yEnY7VqpV8NQGdhWA)
 - Day 23: [Ethereum Network](https://twitter.com/KacperHernacki/status/1551936546839924742?s=20&t=PhKf4yEnY7VqpV8NQGdhWA)
 - Day 24: [Cryptocurrencies](https://twitter.com/KacperHernacki/status/1552273802314371073?s=20&t=PhKf4yEnY7VqpV8NQGdhWA)
+- Day 25: [Dapp](https://twitter.com/kacperhernacki/status/1552639809545551872?s=21&t=oCXyZvXJQ993DHo2V9a0Zg)
+- Day 26: [EVM](https://twitter.com/kacperhernacki/status/1552993408746135557?s=21&t=oCXyZvXJQ993DHo2V9a0Zg)
+- Day 27: [Token Standard](https://twitter.com/KacperHernacki/status/1553448364162789376?s=20&t=OkvB2bQnSXXgK7rhubxY6A)
+- Day 28: [Blockchain Bridge](https://twitter.com/KacperHernacki/status/1553719675745337345?s=20&t=OkvB2bQnSXXgK7rhubxY6A)
 
 ## Resources
