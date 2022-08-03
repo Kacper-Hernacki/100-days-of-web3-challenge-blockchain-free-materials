@@ -17,7 +17,7 @@
 - Day 13: [Blockchain Limitations](https://medium.com/@hernackikacper/blockchain-limitations-what-is-lacking-to-fulfill-its-destiny-e51dd9377ef)
 - Day 14: [Blockchain Use Cases](https://medium.com/@hernackikacper/blockchain-top-80-usages-of-the-greatest-technology-since-the-internet-b9ae48b8961c)
 - Day 15: [Smart Contracts](https://medium.com/@hernackikacper/smart-contracts-explained-to-a-kid-54297299f635)
-- Day 16: [NFT](https://medium.com/@hernackikacper/nft-very-fundamental-explanation-3bed54fae210
+- Day 16: [NFT](https://medium.com/@hernackikacper/nft-very-fundamental-explanation-3bed54fae210)
 - Day 17: [Web3 roadmap](https://medium.com/@hernackikacper/blockchain-developer-ultimate-roadmap-it-is-not-as-difficult-as-you-think-2c57da519068)
 - Day 18: [DAO](https://medium.com/@hernackikacper/dao-dac-the-new-trend-ae9993c351b4)
 - Day 19: [Merkletree](https://medium.com/@hernackikacper/merkle-tree-how-it-improved-blockchain-6d77a0c7ff7b)
@@ -30,3 +30,5 @@
 - Day 26: [EVM](https://medium.com/@hernackikacper/evm-ethereum-virtual-machine-how-it-improved-blockchain-technology-73b18a821a2)
 - Day 27: [Token Standard](https://medium.com/@hernackikacper/what-is-a-standard-for-an-nft-erc-721-erc-1155-6bf204dd7f68)
 - Day 28: [Blockchain Bridge](https://medium.com/@hernackikacper/blockchain-bridge-af4952111d68)
+- Day 29: [Layers](https://medium.com/@hernackikacper/blockchain-layers-how-it-improved-the-decentralized-structure-9fd503b3ea22)
+- Day 30: [Chainlink](https://medium.com/@hernackikacper/chainlink-presenting-hybrid-smart-contracts-5715a2c20f54)

@@ -30,3 +30,5 @@
 - Day 26: [EVM](https://twitter.com/kacperhernacki/status/1552993408746135557?s=21&t=oCXyZvXJQ993DHo2V9a0Zg)
 - Day 27: [Token Standard](https://twitter.com/KacperHernacki/status/1553448364162789376?s=20&t=OkvB2bQnSXXgK7rhubxY6A)
 - Day 28: [Blockchain Bridge](https://twitter.com/KacperHernacki/status/1553719675745337345?s=20&t=OkvB2bQnSXXgK7rhubxY6A)
+- Day 29: [Layers](https://twitter.com/KacperHernacki/status/1554048552837562368?s=20&t=ep7yoFvxISg7bGhnezVy8g)
+- Day 30: [Chainlink](https://twitter.com/KacperHernacki/status/1554452048564965376?s=20&t=ep7yoFvxISg7bGhnezVy8g)
