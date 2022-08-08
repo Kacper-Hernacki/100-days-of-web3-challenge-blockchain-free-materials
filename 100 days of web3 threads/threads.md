@@ -32,3 +32,8 @@
 - Day 28: [Blockchain Bridge](https://twitter.com/KacperHernacki/status/1553719675745337345?s=20&t=OkvB2bQnSXXgK7rhubxY6A)
 - Day 29: [Layers](https://twitter.com/KacperHernacki/status/1554048552837562368?s=20&t=ep7yoFvxISg7bGhnezVy8g)
 - Day 30: [Chainlink](https://twitter.com/KacperHernacki/status/1554452048564965376?s=20&t=ep7yoFvxISg7bGhnezVy8g)
+- Day 31: [DeFi](https://twitter.com/KacperHernacki/status/1554803423450746880?s=20&t=HxNE5enR1kS8Gkqow0bhDA)
+- Day 32: [Hard Fork](https://twitter.com/KacperHernacki/status/1555169301761507329?s=20&t=HxNE5enR1kS8Gkqow0bhDA)
+- Day 33: [Shard chain](https://twitter.com/KacperHernacki/status/1555528796832501761?s=20&t=HxNE5enR1kS8Gkqow0bhDA)
+- Day 34: [Beacon chain](https://twitter.com/KacperHernacki/status/1555861608756350976?s=20&t=HxNE5enR1kS8Gkqow0bhDA)
+- Day 35: [Web3 podcasts](https://twitter.com/KacperHernacki/status/1556207457516535814?s=20&t=HxNE5enR1kS8Gkqow0bhDA)

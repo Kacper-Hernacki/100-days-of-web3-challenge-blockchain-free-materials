@@ -32,3 +32,8 @@
 - Day 28: [Blockchain Bridge](https://medium.com/@hernackikacper/blockchain-bridge-af4952111d68)
 - Day 29: [Layers](https://medium.com/@hernackikacper/blockchain-layers-how-it-improved-the-decentralized-structure-9fd503b3ea22)
 - Day 30: [Chainlink](https://medium.com/@hernackikacper/chainlink-presenting-hybrid-smart-contracts-5715a2c20f54)
+- Day 31: [DeFi](https://medium.com/@hernackikacper/defi-decentralized-finance-next-revolution-a1ea086eea11)
+- Day 32: [Hard Fork](https://medium.com/@hernackikacper/hard-fork-understanding-basics-of-crypto-world-11b6b96acd3c)
+- Day 33: [Shard chain](https://medium.com/@hernackikacper/shard-chains-security-scalability-and-decentralization-achieved-simultaneously-b92d2433bacd)
+- Day 34: [Beacon chain](https://medium.com/@hernackikacper/beacon-chain-how-it-will-change-blockchain-technology-48e56fa93c90)
+- Day 35: [Web3 podcasts](https://medium.com/@hernackikacper/web3-podcasts-great-developers-have-to-listen-it-b64a3714c0cb)
