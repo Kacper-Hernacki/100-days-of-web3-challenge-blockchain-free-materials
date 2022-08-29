@@ -57,5 +57,18 @@ Days 1-10:
 - Day 33: [Shard chain](https://twitter.com/KacperHernacki/status/1555528796832501761?s=20&t=HxNE5enR1kS8Gkqow0bhDA)
 - Day 34: [Beacon chain](https://twitter.com/KacperHernacki/status/1555861608756350976?s=20&t=HxNE5enR1kS8Gkqow0bhDA)
 - Day 35: [Web3 podcasts](https://twitter.com/KacperHernacki/status/1556207457516535814?s=20&t=HxNE5enR1kS8Gkqow0bhDA)
+- Day 36: [Ethereum 2.0](https://twitter.com/KacperHernacki/status/1556625088195198982?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 37: [Crypto Wallets](https://twitter.com/KacperHernacki/status/1556981787703885825?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 38: [Rollups](https://twitter.com/KacperHernacki/status/1557352021593841667?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 39: [Blockchain Explorer](https://twitter.com/KacperHernacki/status/1557709275925024771?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 40: [Staking](https://twitter.com/KacperHernacki/status/1558133279051730944?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 41: [Blockchain in UI](https://twitter.com/KacperHernacki/status/1559888867565752322?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 42: [Metaverse](https://twitter.com/KacperHernacki/status/1560264481195692032?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 43: [IPFS](https://twitter.com/KacperHernacki/status/1560626990880899072?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 44: [Web3 repos](https://twitter.com/KacperHernacki/status/1561621400753954817?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 45: [Web3 vs Web2](https://twitter.com/KacperHernacki/status/1562060216656662530?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 46: [Ethereum Name Servies](https://twitter.com/KacperHernacki/status/1562437864465797121?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 47: [Minting](https://twitter.com/KacperHernacki/status/1563869391502168064?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 48: [Uniswap](https://twitter.com/KacperHernacki/status/1564244074651127809?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
 
 ## Resources
