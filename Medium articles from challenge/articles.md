@@ -50,3 +50,6 @@
 - Day 46: [Ethereum Name Servies](https://medium.com/@hernackikacper/introducing-crypto-domains-ens-ethereum-name-services-cd333d520f5a)
 - Day 47: [Minting](https://medium.com/@hernackikacper/minting-creating-first-nft-9c332cc4c6d6)
 - Day 48: [Uniswap](https://medium.com/@hernackikacper/uniswap-liquidity-pools-aff95378c5a2)
+- Day 49: [Binance Smart Chain](https://medium.com/@hernackikacper/binance-smart-chain-why-does-this-ecosystem-is-so-powerful-df56fd2223d8)
+- Day 50: [Blockchains for NFTs](https://medium.com/@hernackikacper/blockchains-for-nfts-14131404a9d6)
+- Day 51: [Seed Phrase](https://medium.com/@hernackikacper/seed-phrase-9aa8dd88f369)

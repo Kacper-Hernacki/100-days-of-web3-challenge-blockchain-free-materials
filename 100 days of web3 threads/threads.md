@@ -50,3 +50,6 @@
 - Day 46: [Ethereum Name Servies](https://twitter.com/KacperHernacki/status/1562437864465797121?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
 - Day 47: [Minting](https://twitter.com/KacperHernacki/status/1563869391502168064?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
 - Day 48: [Uniswap](https://twitter.com/KacperHernacki/status/1564244074651127809?s=20&t=hUD3ymfKgaBZZoR_v-ubRw)
+- Day 49: [Binance Smart Chain](https://twitter.com/KacperHernacki/status/1564600241332043777?s=20&t=AUvAMY-wwSEgYeFiyTcWFA)
+- Day 50: [Blockchains for NFTs](https://twitter.com/KacperHernacki/status/1565320567581974533?s=20&t=AUvAMY-wwSEgYeFiyTcWFA)
+- Day 51: [Seed Phrase](https://twitter.com/KacperHernacki/status/1566813719665020928?s=20&t=AUvAMY-wwSEgYeFiyTcWFA)
