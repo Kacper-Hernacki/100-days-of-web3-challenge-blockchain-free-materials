@@ -14,7 +14,13 @@ Content will be updated every day, after necessary basic theory, there will be r
 
 - blockchain in pure javascript & typescript,
 - blockchain use cases implementations - healthcare
+
+[Blockchain with Typescript frontend](https://github.com/Kacper-Hernacki/blockchain-typescript-frontend)
+[Blockchain with Typescript backend](https://github.com/Kacper-Hernacki/blockchain-typescript-api)
+
 - and many more...
+
+[P2E - rock, paper, scissors](https://github.com/Kacper-Hernacki/p2e-rock-paper-scissors)
 
 ## Topics of each day
 
@@ -73,5 +79,22 @@ Days 1-10:
 - Day 49: [Binance Smart Chain](https://twitter.com/KacperHernacki/status/1564600241332043777?s=20&t=AUvAMY-wwSEgYeFiyTcWFA)
 - Day 50: [Blockchains for NFTs](https://twitter.com/KacperHernacki/status/1565320567581974533?s=20&t=AUvAMY-wwSEgYeFiyTcWFA)
 - Day 51: [Seed Phrase](https://twitter.com/KacperHernacki/status/1566813719665020928?s=20&t=AUvAMY-wwSEgYeFiyTcWFA)
+- Day 52: [Proof of history](https://twitter.com/KacperHernacki/status/1567135049337774086?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 53: [Third web](https://twitter.com/KacperHernacki/status/1567501359963947008?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 54: [Yielding](https://twitter.com/KacperHernacki/status/1567860048679895040?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 55: [ABI code](https://twitter.com/KacperHernacki/status/1568212881988100097?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 56: [Gas](https://twitter.com/KacperHernacki/status/1574387177483796480?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 57: [P2E](https://twitter.com/KacperHernacki/status/1575106619045974016?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 58: [Future of web3](https://twitter.com/KacperHernacki/status/1576917632242319361?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 59: [Hardhat](https://twitter.com/KacperHernacki/status/1577350667496194068?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 60: [BaaS](https://twitter.com/KacperHernacki/status/1579446323514052608?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 61: [Dapp Stack](https://twitter.com/KacperHernacki/status/1580179193542819840?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 62: [WalletConnect](https://twitter.com/KacperHernacki/status/1580536459970285569?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 63: [MetaMask](https://twitter.com/KacperHernacki/status/1580908318419128320?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 64: [Why NFTs are so hated](https://twitter.com/KacperHernacki/status/1583069790457196545?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 65: [Tokenomics](https://twitter.com/KacperHernacki/status/1584523937144516608?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 66: [Ledger](https://twitter.com/KacperHernacki/status/1585242312900501507?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 67: [Ganache](https://twitter.com/KacperHernacki/status/1585666772052721665?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 68: [Truffle](https://twitter.com/KacperHernacki/status/1586386516820905986?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
 
 ## Resources
