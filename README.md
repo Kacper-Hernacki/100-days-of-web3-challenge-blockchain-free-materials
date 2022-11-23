@@ -22,6 +22,12 @@ Content will be updated every day, after necessary basic theory, there will be r
 
 [P2E - rock, paper, scissors](https://github.com/Kacper-Hernacki/p2e-rock-paper-scissors)
 
+## YouTube tutorials:
+
+- Blockchain with Typescript - part I: [Video](https://www.youtube.com/watch?v=sCe_ewIBnYQ&t=30s)
+- Metamask Auth - How to perform that in a React App: [Video](https://www.youtube.com/watch?v=qCmGSIOKUsA)
+- Uploading files to IPFS from React App: [Video](https://www.youtube.com/watch?v=wVgBN-OlNyA&t=42s)
+
 ## Topics of each day
 
 All the links with content are available in folders `/Medium articles from challenge` and `/100 days of web3 threads`. Below are represented only twitter threads.
@@ -96,5 +102,15 @@ Days 1-10:
 - Day 66: [Ledger](https://twitter.com/KacperHernacki/status/1585242312900501507?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
 - Day 67: [Ganache](https://twitter.com/KacperHernacki/status/1585666772052721665?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
 - Day 68: [Truffle](https://twitter.com/KacperHernacki/status/1586386516820905986?s=20&t=Yh9uGBDJqo-z6CSUgAncjQ)
+- Day 69: [Polygon](https://twitter.com/KacperHernacki/status/1587052248324050944?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 70: [Cardano](https://twitter.com/KacperHernacki/status/1587799682612449280?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 71: [Blockchain with TS - part I](https://twitter.com/KacperHernacki/status/1589234241673777152?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 72: [GWEI, WEI, Ethers](https://twitter.com/KacperHernacki/status/1589630094569771009?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 73: [Metamask authentication](https://twitter.com/KacperHernacki/status/1590374687976357888?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 74: [Swap](https://twitter.com/KacperHernacki/status/1590708541131608064?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 75: [Avalanche](https://twitter.com/KacperHernacki/status/1592156371239436289?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 76: [Listing](https://twitter.com/KacperHernacki/status/1592525101828050944?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 77: [Uploading Files to IPFS](https://twitter.com/KacperHernacki/status/1595079610634760192?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 78: [Lens Protocol](https://twitter.com/KacperHernacki/status/1595450591282663425?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
 
 ## Resources
