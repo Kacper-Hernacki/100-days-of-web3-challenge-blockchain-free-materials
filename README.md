@@ -133,5 +133,27 @@ Days 71-80:
 - Day 76: [Listing](https://twitter.com/KacperHernacki/status/1592525101828050944?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
 - Day 77: [Uploading Files to IPFS](https://twitter.com/KacperHernacki/status/1595079610634760192?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
 - Day 78: [Lens Protocol](https://twitter.com/KacperHernacki/status/1595450591282663425?s=20&t=yyqpfsxaclDJjdXbMYnjVw)
+- Day 79: [Stablecoins](https://twitter.com/KacperHernacki/status/1595814835417235459?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 80: [Seed phrase](https://twitter.com/KacperHernacki/status/1596223512053657600/photo/1)
+
+Days 81-90:
+
+- Day 81: [Crypto Exchanges](https://twitter.com/KacperHernacki/status/1597261151913783296?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 82: [Hash Algorithm](https://twitter.com/KacperHernacki/status/1597617440409628672?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 83: [Top web3 tools](https://twitter.com/KacperHernacki/status/1599786757200879617?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 84: [Hybrid Smart Contracts](https://twitter.com/KacperHernacki/status/1601240998901784579?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 85: [Web3 Developer](https://twitter.com/KacperHernacki/status/1602296576101203971?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 86: [Web3 courses](https://twitter.com/KacperHernacki/status/1602651620692615169?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 87: [Magic Link](https://twitter.com/KacperHernacki/status/1603025181336797184?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 88: [Decentralized Identity](https://twitter.com/KacperHernacki/status/1603388361313599494?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 89: [Blockchain Protocols](https://twitter.com/KacperHernacki/status/1603706226956713985?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 90: [Web3 projects ideas](https://twitter.com/KacperHernacki/status/1604830637910900739?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+
+Days 91-100:
+
+- Day 91: [Create Blockchain](https://twitter.com/KacperHernacki/status/1605201703925448704?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 92: [Testing Smart Contracts](https://twitter.com/KacperHernacki/status/1605917252536176642?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 93: [Deployment](https://twitter.com/KacperHernacki/status/1608078275842023426?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 94: [zkSync](https://twitter.com/KacperHernacki/status/1609902704591261697?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
 
 ## Resources
