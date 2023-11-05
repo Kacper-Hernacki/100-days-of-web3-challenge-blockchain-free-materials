@@ -155,5 +155,11 @@ Days 91-100:
 - Day 92: [Testing Smart Contracts](https://twitter.com/KacperHernacki/status/1605917252536176642?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
 - Day 93: [Deployment](https://twitter.com/KacperHernacki/status/1608078275842023426?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
 - Day 94: [zkSync](https://twitter.com/KacperHernacki/status/1609902704591261697?s=20&t=xNj7taQm9yRiZ1ED_t6U8Q)
+- Day 95 [Rust](https://x.com/KacperHernacki/status/1613526819533193216?s=20)
+- Day 96 [Solidity](https://x.com/KacperHernacki/status/1617857036112519169?s=20)
+- Day 97 [AI + Blockchain](https://x.com/KacperHernacki/status/1618252801905414144?s=20)
+- Day 98 [Community](https://x.com/KacperHernacki/status/1620061895331057666?s=20)
+- Day 99 [Node Provider](https://x.com/KacperHernacki/status/1622588757638541313?s=20)
+- Day 100 [Auditor](https://x.com/KacperHernacki/status/1622960607593918464?s=20)
 
 ## Resources
